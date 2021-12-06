@@ -1,4 +1,8 @@
 # ToDoApp
 Full Stack Todo List App
 
-Uses Firebase to handle user login
+Functions:
+-Create and update tasks/reminders
+-User login
+
+Uses Firebase to handle user data 
